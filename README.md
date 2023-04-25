@@ -1,1 +1,2 @@
-TinDog Starting Files
+#TinDog
+Tinder but for dogs! Single page website.
